@@ -1,4 +1,6 @@
 Music and SFX: Call to Adventure by WhatSoundsNice
 Wordlist: https://github.com/DockerImage001/5letterwords
+Definitions: freeDictionaryAPI by meetDeveloper https://github.com/meetDeveloper/freeDictionaryAPI
 Font: Deux Deriche by Bay Bilson
 Inspiration: Wordle by Josh Wardle
+Created by: Neal Birchfield

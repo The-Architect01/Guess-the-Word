@@ -396,7 +396,12 @@ MonoBehaviour:
     <b>Inspiration</b>: <i>Wordle</i> by Josh
     Wardle
 
-    <b>Word List</b>: <i>5 Letter Words</i> by DockerImage001'
+    <b>Word List</b>: <i>5 Letter Words</i> by DockerImage001
+
+    <b>Definitions</b>:
+    <i>freeDictionaryAPI</i> by meetDeveloper
+
+    <b>Created by</b>: Neal Birchfield'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 35aabddf90c79a34781a5df4965ce635, type: 2}
   m_sharedMaterial: {fileID: 5578766363801235713, guid: 35aabddf90c79a34781a5df4965ce635, type: 2}
@@ -6103,6 +6108,7 @@ MonoBehaviour:
       CorrectAnswer: 
       GuessHistory: []
       TimeToWin: 0
+  EventConsumed: 0
 --- !u!114 &1064672517
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -59,14 +59,14 @@
   <ItemGroup>
     <Compile Include="Assets\Code\DictionaryAPI.cs" />
     <Compile Include="Assets\Code\GamePopUp.cs" />
+    <Compile Include="Assets\Code\LoadHistoryUI.cs" />
+    <Compile Include="Assets\Code\HistoryDisplay.cs" />
     <Compile Include="Assets\Code\GameUIHost.cs" />
     <Compile Include="Assets\EngineSecrets.cs" />
     <Compile Include="Assets\Code\Engine.cs" />
     <Compile Include="Assets\Code\SaveSystem.cs" />
     <Compile Include="Assets\Code\RemoteConfigFetch.cs" />
     <Compile Include="Assets\Code\UIEngine.cs" />
-    <Compile Include="Assets\Code\LoadHistoryUI.cs" />
-    <Compile Include="Assets\Code\HistoryDisplay.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
