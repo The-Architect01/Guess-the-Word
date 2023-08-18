@@ -361,3 +361,15 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/TextMesh Pro
+/Assets/WhatSoundsNice/Adventure Music & SFX
+/Assets/Icon.png
+/Assets/Logo.png
+/Builds
+/Library
+/ProjectSettings
+/Temp
+/UserSettings
+/Assets/EngineSecrets.cs
+/Assets/Fonts
+/Assets/Editor/RemoteConfig/Data
